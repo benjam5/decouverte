@@ -10,6 +10,8 @@ const menu=`
     </li>
     <a href="menu.html">menu</a>
     </li>
+    <a href="decouverte.html">decouverte</a>
+    </li>
 </ul>
 
 `;
