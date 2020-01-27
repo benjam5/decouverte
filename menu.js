@@ -8,6 +8,8 @@ const menu=`
     <li>
     <a href="presentation.html">presentation</a>
     </li>
+    <a href="menu.html">menu</a>
+    </li>
 </ul>
 
 `;
